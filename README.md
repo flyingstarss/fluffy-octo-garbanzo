@@ -17,11 +17,17 @@ LDA模型的应用非常广泛，包括但不限于信息检索、情感分析�
 
 # 环境配置及工具使用
 python3.11
+
 pandas
+
 sklearn
+
 pickle
+
 os
+
 jieba
+
 以及相关的pytorch配置
 
 # 文件名称含义
